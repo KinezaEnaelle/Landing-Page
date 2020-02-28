@@ -26,4 +26,9 @@ span{
     background: rgba(0, 0, 0, 0.4);
     vertical-align: middle;
     text-align: center;
+    top: 70%;
+    transform: translateY(-10%);
+}
+.carousel-fade{
+    transition-property: opacity;
 }
