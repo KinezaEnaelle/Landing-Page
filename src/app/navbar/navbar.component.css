@@ -1,0 +1,15 @@
+
+.nav-item :hover{
+    color: #e6004c;
+   
+}
+.navbar-nav { 
+    flex-direction: row;
+}
+.nav a{
+    line-height: 1.8em;
+    color: #ffe6ee;
+    font-family: 'Libre Baskerville';
+    font-size: 15px;
+    padding: 10px 5px;
+}
